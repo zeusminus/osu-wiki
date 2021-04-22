@@ -49,7 +49,7 @@ Eğer Atanmış Temsilci tarafından bir karşı bildirim teslim alınırsa, osu
 
 ## Atanmış Temsilci iletişim bilgileri
 
-**E-posta:** [copyright@ppy.sh](mailto:copyright@ppy.sh) (24 saat içinde yanıt garantilidir)
+**E-posta:** [copyright@ppy.sh](mailto:copyright@ppy.sh) (24 saat içinde yanıt garantili)
 
 **Posta Adresi:**
 

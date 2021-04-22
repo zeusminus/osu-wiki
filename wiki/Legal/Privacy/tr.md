@@ -16,115 +16,113 @@ osu!, capcanlı bir topluluğu ve kullanıcıların yaratıcılıklarını diğe
 
 Bu servisleri sizlere sunabilmek için, sıklıkla kişisel verilerinizi toplamak, saklamak ve paylaşmak durumundayız. osu!'nun çalıştığı her aşamada olabildiğince şeffaf olmaya gayret etmekteyiz, ve bu gizlilik politikası da bizi bu hedefe biraz daha yaklaştıracaktır.
 
+Bu döküman, iletişim ağımız üzerinden, ürünlerimizin ve servislerimizin kullanımından hangi bilgileri topladığımız, bu bilgileri nasıl kullandığımız ve kişisel bilgilerinizi kontrol edebilmeniz doğrultusunda size ne gibi seçenekler sunduğumuzu açıklamayı amaçlamaktadır.
 
+Hizmetimizi kullanarak, [Hizmet Koşullarını](https://osu.ppy.sh/legal/terms) ve bu gizlilik politikasını okuyup anladığınızı, buna ek olarak bilgilerinizi nasıl ve niçin kullandığımızı ve hizmet kullanımınızın geçerli Hizmet Koşullarına ve bu Gizlilik Politikasına tabi olduğunu kabul etmiş olursunuz. Eğer kişisel bilgilerinizi burada bahsedildiği gibi toplamamızı ve işlememizi istemiyorsanız, sizin adınıza topladığımız bilgileri sınırlandırmak, veya İletişim Ağımızı, Ürünlerimizi ve Servislerimizi kullanmamak dahil birtakım seçenekleriniz mevcuttur.
 
-This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
+## Topladığımız bilgiler
 
-By using our service, you confirm that you have read and understood the [Terms of Service](https://osu.ppy.sh/legal/terms) and this privacy policy, including how and why we use your information and that your use of the service is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services.
+### Hesap oluştururken
 
-## Information we collect
+Bir hesap olmaksızın da sınırlı işlevsellikten zevk alınabilse de, kullanıcıların birtakım hizmetleri tecrübe edebilmek için hesap oluşturması sıklıkla gereklidir. Hesap oluşturma sırasında topladığımız bilgiler aşağıdaki gibidir: 
 
-### On account registration
+- Kullanıcı adınız
+- E-posta adresiniz
+- Şifreniz (bcrypt+salt)
+- IP adresiniz ve bulunduğunuz ülke
 
-While limited functionality can be enjoyed without an account, it is often required that a user registers an account to experience certain services. When registering an account, we store
+Kullanıcı adınız ve bulunduğunuz ülke harici yukarıda belirtilen kişisel bilgiler asla herkese açık bir şekilde paylaşılmaz.
 
-- Your username
-- Your email address
-- Your password (bcrypt+salt)
-- Your IP address and country
+### Profilinizi güncellerken
 
-This personal information, with the exception of your username and country, is never shared publicly.
+Diğer tüm kullanıcılar tarafından herkese açık bir şekilde görüntülenebilen kullanıcı profilinizi oluştururken isteğe bağlı olarak aşağıdaki bilgileri sağlayabilirsiniz:
 
-### On updating your profile
+- Mevcut konumunuz
+- İlgi alanlarınız
+- Mesleğiniz
+- Sosyal medya varlığınız (twitter, discord, skype, web sitesi)
+- Avatarınız ve profil kapak resimleriniz
+- İmzanız
 
-When building up your user profile (which is publicly visible to all other users), you can optionally provide
+Üstte belirtilen tüm alanlar herkese açık bir şekilde görüntülenebilir fakat bu alanlar aynı zamanda [ayarlar sayfasından](https://osu.ppy.sh/home/account/edit) anında ve kalıcı olarak geri çekilebilir.
 
-- Your current location
-- Your interests
-- Your occupation
-- Your social media presence (twitter, discord, skype, website)
-- Your avatar and profile cover images
-- Your signature
+### Kullanıcı tarafından gönderilen içerikleri karşıya yüklerken
 
-All the above fields are publicly visible but can be withdrawn immediately and permanently at any point from the [settings page](https://osu.ppy.sh/home/account/edit).
+Forumlarda gönderi oluşturduğunuzda, sohbete dahil olduğunuzda veya hizmetlerimize beatmap gibi bir içerik yüklediğinizde, gönderilen tüm içerikleri apaçık bir şekilde herkese açık hale getirmiş olursunuz. Çoğu durumda, bu içerikleri yükleme sonrasında dilediğiniz takdirde düzenleyebilir ve silebilirsiniz, ancak bazı durumlarda bu işlevsellik alaka düzeyini korumak ve kullanıcı tabanımıza sağladığımız hizmeti devam ettirmek adına kilitli olabilir.
 
-### On uploading user submitted content
+Örneğin, yüklediğiniz bir beatmao "dereceli" olursa, bu beatmap kullanıcı tabanının büyük bir kısmının puan alması için temel oluşturur. Bu noktada yüklenen içeriği silme seçeneği kaldırılacaktır.
 
-When posting on the forums, participating in chat or uploading content to our service such as a beatmap, you are expressly publicising all submitted content. In most cases, it can be edited and deleted after submission at your discretion, but in certain sometimes this functionality may be locked to maintain relevance and provisioning of service to our user base.
+### Oyun istemcisine giriş yaparken
 
-As an example, if you upload a beatmap and it is "ranked", it becomes the basis for the user base at large to achieve scores on. At this point the option to delete a submission will be revoked.
+osu! oyun istemcisi üzerinden hizmetimize bağlanırken, istemciye özel bir karakter dizisi mevcut oyun ortamınızı tanımlayabilmemize yardımcı olması için bize gönderilir. Bu, donanım ve yazılım yapılandırma bilgilerinizden elde edilen tanımlayıcıların bir kombinasyonu baz alınarak oluşturulur ve kişisel olarak tanımlayıcı bir bilgi içermeyecek düzeyde şifrelenir, ancak hizmetimize girişler arasındaki erişimlerinizi takip etmek için kullanılabilir.
 
-### On logging in to the game client
+Bunun temel amacı sıralama sisteminin adil kalmasını sağlamak ve riskli bir konumdan hesabınıza erişildiği takdirde hesabınızı güvence altına almamıza yardımcı olmaktır. Bu, gizli kabul edilir ve yalnızca gerekli görüldüğü sürecek saklanır. Bu, aynı zamanda transfer edilemez, ve osu! ekosistemi dışında herhangi bir anlam ifade etmez.
 
-When connecting to our service from the osu! game client, a client-specific string is submitted to help us identify your current play environment. It is created based off a combination of identifiers from your hardware and software configuration and hashed in such a way that it contains no personally identifiable information, but can be used to track your access across logins to our service.
+### Oyunu oynarken ve skor gönderirken
 
-The main purpose of this is to maintain a fair ranking system and help us enforce account security should your account be accessed from a compromised location. This is considered private and only stored as long as it is deemed relevant. It is also non-transferrable, and has no meaning outside the osu! ecosystem.
+Bir oyun oturumu tamamlandığında (bir beatmapte başarılı veya başarısız olunduğunda), performansınıza ait detaylar otomatik olarak sunucumuza gönderilecektir. Bu gönderimin puanlama kısmı oyun tekrar verisini içerir ve Küresel Lider Tablolarında ve sizin Kullanıcı Profilinizde herkese açık bir şekilde görüntülenebilir ancak silinemez veya değiştirilemez.
 
-### On playing the game and submitting a score
+### Hile koruması
 
-When completing a game session (passing or failing a beatmap), details on your performance will be automatically submitted to our server. The scoring portion of this submission includes game replay data and may be displayed publicly in the Global Leaderboards and on your User Profile and can not be deleted or modified.
+osu!, hile yazılımlarının kullanımını tespit etmek için kullanılan bir çalıştırılabilir kod içerir. osu!'nun hile korumasının amacı, oyunun performansını veya kullanıcının gizliliğini etkilemeden tüm oyuncular için adil ve rekabetçi bir oyun ortamı sağlamaktır.
 
-### Anti-cheat
+- Hile tespiti sizin cihazınızda meydana gelir ve tespit sırasında tarafınızdan sunucumuza gereksiz herhangi bir bilgi gönderilmez.
+- Eğer hile koruması sizin hile yaptığınızı saptarsa, bu durum, tanılama ve metaveri biçimindeki kanıta ek olarak doğrulama için sunucularımıza gönderilir. Eğer hile yapmıyorsanız, hile korumasına dair herhangi bir veri iletilmeyecektir.
+- Tespit edildiğinde bile, sizi kişisel olarak tanımlamak için kullanılabilecek herhangi bir bilginin osu! ekosistemi dışına sızdırılmaması adına büyük bir gayret gösterilir.
+- İletilen metaveri gerekli olduğu süre boyunca yalnızca bizim sunucularımızda muhafaza edilir. Bildirilen içeriği analiz ederken bu süreç genellikle saatler ile günler arasındadır.
+- Analiz büyük ölçüde otomatiktir. İletilen metaveri destek ekibi üyeleri tarafından erişilemez, ve çok katmanlı bir güvenlik aracılığıyla elde edilebilir. Yalnızca veri tabanı yöneticileri metaveriyi görüntüleyebilir.
 
-osu! contains executable code that is used to detect the usage of cheat software. The aim of osu!'s anti-cheat is to maintain a fair and competitive gaming environment for all players, while not affecting gameplay performance or user privacy.
+Gizliliğinize saygı duyuyor ve değer veriyoruz, oyunda bir hile koruması bulundurarak meşru kullanıcılara korku salmayı ise hiç istemiyoruz.
 
-- Cheat detection occurs on your device and no unnecessary data is sent to our server during the detection process.
-- If the anti-cheat determines you are cheating, then this fact in addition to proof in the form of diagnostics and metadata are sent to our servers for verification. If you are not cheating, no anti-cheat data will be transmitted.
-- Even on detection, a best effort attempt is made to never send any information outside of the osu! ecosystem which could be used to personally identify you.
-- Transmitted metadata is only retained on our server for the duration it is useful. This is generally hours to days while we analyse the reported content.
-- Analysis is largely automated. Transmitted metadata is not accessible by support team members, and must be accessed via multi-layered security. Only database server admins are able to view metadata. 
+### Kayıt tutma
 
-We respect and value your privacy and do not wish to impose fear on legitimate users by having anti-cheat present in the game.
+Hizmetlerimizi kullandığınız süre boyunca teknik bilgileri ve kullanım verilerini toplayan hata kaydı tutan araçlardan faydalanıyoruz. Bunlar, IP adresiniz, kullanıcı adınız, tarayıcı türü ve versiyonu, saat dilimi ayarı ve konum, işletim sistemi ve platform, ve hizmetlerimize erişim sağlarken kullandığınız cihazlar hakkında diğer detayları içerebilir.
 
-### Logging
+Toplanan bu veri tümleşiktir ve yalnızca kullanışlı olduğu süre boyunca saklanır. Tümleşik olmayan verilerin saklama süresi genellikle bir aydan kısadır, ve otomatik silme talimatı mevcuttur.
 
-We utilise error logging which collects technical and usage information as you use our services. This may include IP address, your username, browser type and version, time zone setting and location, operating system and platform and other details on what devices you use to access our services.
+## Kişisel verilerinizin açığa vurulması
 
-This collected data is aggregated and only retained as it is useful. Generally the period of retention for non-aggregated data is less than one month, with automatic purge rules.
+Biz herhangi bir şekilde pazarlama, reklam, veya istenmeyen e-posta gönderimi yapmıyoruz. Bizden alacağınız e-postalar yalnızca hizmetlerimizi kullanırken yaptığınız bir işlemin (iki faktörlü kimlik doğrulama, bir ürün satın alma veya bir tartışma için bildirimleri etkinleştirme gibi) sonucu olarak gönderilir.
 
-## Disclosures of your personal data
+Kişisel verilerinizi üçüncü partilerle bazı özel durumlarda paylaşabiliriz:
 
-We do not perform any marketing, advertising nor send any unsolicited emails. The only emails you will receive from us are the result of an action on our service (such as requesting two-factor authentication, purchasing a product or enabling notifications for a discussion).
+- Bilgilerinizi açıkça herkese açık bir şekilde paylaştığınız yerlerde
+- Mağaza siparişlerinizi yerine getirmek için
+- Paypal ve Xsolla gibi ödeme işleme sağlayıcılar aracılığıyla yapılan ödemeleri işleme koymak için
+- Müşteri hizmet biletlerinizi işleme koymak için ([Enchant](https://enchant.com) kullanıyoruz)
+- Hata kaydı tutarak hizmetlerimizi geliştirebilmek için ([Sentry](https://sentry.io) kullanıyoruz)
 
-We may share your personal data with third parties in very specific cases:
+## Haklarınız ve kontrolünüz
 
-- Where you have expressly made information public
-- To fulfil your store orders
-- To process payments via payment processing providers like Paypal and Xsolla
-- To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
+Bir kullanıcı olarak kişisel bilgilerinizi taşıma, güncelleme veya silme haklarına sahipsiniz. Bu, temel olarak [kullanıcı ayarları](https://osu.ppy.sh/home/account/edit) üzerinden, veya sitemizin ilgili kısmında yerleşik bir "Düzenle" özelliği mevcut olmadığında yapılabilir. Programsal bir şekilde hesabınıza ait tüm verileri elde etmek istediğiniz durumlarda lütfen [herkese açık API](https://github.com/ppy/osu-api/wiki) hizmetimizi kullanın.
 
-## Your rights and control
+Pek çok durumda, forum gönderileri veya beatmapler gibi kullanıcı gönderileri teker teker silinebilir. Silme butonlarını silinebilen ögelerle doğrudan alakalı kısımlarda bulabilirsiniz.
 
-As a user you have the right to migrate, update or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In cases you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
+Hesabınızı hizmetimizden silme gibi bir seçeneğiniz mevcuttur. Lütfen bunun elle yapılan bir süreç olduğunu ve tamamlanmasının birkaç gün süreceğini unutmayın (bir talepte bulunmak için [bizimle iletişime geçin](mailto:privacy@ppy.sh)). Hesabın silinmesi durumunda, "Topladığımız bilgiler" kısmında detaylandırıldığı gibi, herkese açık katkılarınızın bir bölümü olduğu gibi kalabilir.
 
-In many cases, user submissions such as forum posts and beatmaps can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
+Lider tablolarının adil kalmasını sağlamak adına sıkı bir kişi başı bir hesap politikamız olduğu için, hesabınız silindikten sonra hizmetlerimizden yeniden faydalanma imkanınız olmayacaktır. Bunu uygulamak için, hesabın silinmesinden sonra dahi "Topladığımız bilgiler" kısmında bahsedilen eşsiz tanımlayıcı karakter dizisini saklamaya devam edeceğiz. Bu, kurallarımızı uygulayabilmemiz için [GDPR'da belirtildiği gibi meşru bir menfaat](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) olarak uygulanır. Emin olun ki, bu bilgi tek yönlü olarak şifrelenmiştir ve osu!'nun dışında veya bu kuralı uygulama bağlamının ötesinde sizi tanımlamak için kullanılamaz.
 
-If you are covered by the European Union, you have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect".
+## Çerezler
 
-As we have a strict one-account-per-user policy to maintain fair leaderboards, after account deletion you may not be able to return to our service. To enforce this, we will also maintain the unique identifying string as mentioned in "Information we collect", even after account deletion. This is done so as a [legitimate interest as outlined in the GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) in order to enforce our rules. Rest assured, this information is one-way hashed and cannot be used to identify you outside of osu!, or beyond the precise context of enforcing this rule.
+İnternetin geri kalanı gibi biz de çerezlerden faydalanıyoruz. Bunları kesinlikle oturum durumunuzu ve birden çok oturumda giriş bilgilerinizi korumak için kullanıyoruz. Eğer çerezlere alerjiniz varsa, lütfen hizmetlerimizden faydalanmayın.
 
-## Cookies
+## Veri güvenliği
 
-We use cookies, as does the rest of the internet. We strictly use them to maintain your session state and login credentials across multiple sessions. If you're allergic to cookies, please do not use our services.
+Güvenlik bizim için çok önemlidir. osu!, işleme, aktarım, ve saklama sırasında kişisel bilgilerinizi korumak için kabul edilen standartları takip eder. Etki alanımızdaki tüm sitelerin TLS aracılığıyla şifrelenmesini sağlamak, sunucularımıza erişim için veri güvenliğinde yüksek standartları sürdürmek ve gerekmediğinde kişisel verilerinize erişimi kısıtlamak için HSTS kullanıyoruz.
 
-## Data security
+Aynı zamanda, meşru ticari menfaatlerimizi gerçekleştirmek için yalnızca gereken miktardaki geçmiş veriyi saklamak amacıyla verileri sürekli ve otomatik olarak düzenli aralıklarla temizliyoruz.
 
-Security is very important to us. osu! follows accepted standards to protect your personal information during processing, transferring, and storage. We employ HSTS to ensure all sites on our domain are encrypted via TLS and maintain high standards in data security for access to our servers, restricting access to your personal data when we do not need to access it.
+## Çocuklar
 
-We also regularly purge data on an ongoing and automatic basis as to only keep as much historical data as necessary to perform our legitimate business interests.
+osu! hizmetleri 13 yaşından küçük çocuklar için uygun değildir. Eğer 13 yaşından küçük bir bireyin bize ebeveyn izni olmadan kişisel bilgilerini yolladığını tespit edersek, bilgiyi sistemlerimizden silmek için gayret göstereceğiz.
 
-## Children
+## Veri Sorumlusu
 
-osu! services are not designed for children under the age of 13. If we discover that a person under the age of 13 has submitted personal information to us without parental permission, we will endeavour to delete the information from our systems.
+Selam, ben Dean (sıklıkla peppy olarak tanınırım) ve ben sizin veri sorumlunuzum. Eğer gizlilik endişeleriniz veya yasal haklarınızı kullanma talebiniz varsa, benimle aşağıdaki adres üzerinden iletişime geçmekten çekinmeyin. 
 
-## Data Controller
+**E-posta**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 saat içinde yanıt garantili)
 
-Hi, I am Dean (commonly known as peppy) and I am your data controller. If you have any privacy concerns or requests to exercise your legal rights, don't hesitate to contact me directly at the address listed below.
-
-**Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (24 hour response guaranteed)
-
-**Postal Address**:
+**Posta Adresi**:
 
 ```
 Dean Herbert
