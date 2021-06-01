@@ -59,60 +59,60 @@ Web sitesi, osu! tarafından Amerika Birleşik Devletleri'ndeki tesislerinden ko
 osu!, osu! Web sitesinin başka yerlerde kullanıma uygun veya kullanılabilir olduğuna dair hiçbir beyanda bulunmaz.
 osu! Web sitesine diğer yargı bölgelerinden erişenler veya bunu kullananlar, bunu kendi iradeleriyle yaparlar ve yerel yasalara uymakla yükümlüdürler.
 
-## INDEMNITY
+## TAZMİNAT ÖDEME
 
-You agree to defend, indemnify and hold harmless osu!, its parent corporation, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to the osu! Website; (ii) your violation of any term of these Terms of Service; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that one of your User Submissions caused damage to a third party.
-This defense and indemnification obligation will survive these Terms of Service and your use of the osu! Website.
+osu!'yu, onun ana şirketini, memurlarını, yöneticilerini, çalışanlarını ve acentelerini, (i) sizin osu! Web sitesini kullanımınızdan ve bu siteye erişiminizden; (ii) bu Hizmet Koşullarından herhangi birini çiğnemenizden; (iii) herhangi bir telif hakkı, mülkiyet veya gizlilik hakkı dahil ancak bunlarla sınırlı olmamak üzere, herhangi bir üçüncü parti hakkını çiğnemenizden; veya (iv) Kullanıcı Gönderimlerinizden bir tanesinin bir üçüncü partiye zarar verdiği yönünde bir iddiadan kaynaklanan her türlü iddiaya, zarara, zorunluluğa, kayba, yükümlülüğe, maliyete veya borca, ve (avukatlık ücretleri dahil ancak bununla sınırlı olmamak üzere) harcamalara karşı koruyacağınızı, mağdur etmeyeceğinizi ve zararı tazmin edeceğinizi kabul ediyorsunuz.
+Bu savunma ve tazminat yükümlülüğü bu Hizmet Koşulları ve osu! Web sitesini kullanımınız için geçerli olacaktır.
 
-## YOUR USE OF CONTENT ON THE SITE
+## SİTEDEKİ İÇERİĞİ KULLANIMINIZ
 
-You understand that when using the osu!, you will be exposed to User Submissions from a variety of sources, and that osu! is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such User Submissions.
-You further understand and acknowledge that you may be exposed to User Submissions that are inaccurate, offensive, indecent, or objectionable, and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against osu! with respect thereto, and agree to indemnify and hold osu!, its Owners/Operators, affiliates, and/or licensors, harmless to the fullest extent allowed by law regarding all matters related to your use of the site.
+osu!'yu kullanırken, bir dizi kaynaktan Kullanıcı Gönderimlerine maruz kalacağınızı, ve osu!'nun bu tür Kullanıcı Gönderimlerinin doğruluğundan, kullanışlılığından, güvenliğinden, veya fikri mülkiye haklarından sorumlu olmadığını anlıyorsunuz.
+Aynı zamanda, yanlış, ofansif, uygunsuz, veya sakıncalı Kullanıcı Gönderilerine maruz kalabileceğinizi anlıyor ve kabul ediyor, ve osu!'ya karşı sahip olduğunuz veya olacağınız her türlü yasal veya adil haklardan veya kanuni yollardan feragat edeceğinizi kabul ediyor ve feragat ediyor, ve osu!'yu, onun Sahiplerini/İşletmecilerini, iştirakçilerini, ve/veya lisansörlerini, sitenin şahsi kullanımlarınızı ilgilendiren tüm konularda yasaların izin verdiği en geniş ölçüde tazmin edeceğinizi ve mağdur etmeyeceğinizi onaylıyorsunuz.
 
-## USER SUBMISSIONS AND CONTENT REMOVAL
+## KULLANICI GÖNDERİLERİ VE İÇERİKLERİN KALDIRILMASI
 
-You shall be solely responsible for your own User Submissions and the consequences of posting or publishing them.
-In connection with User Submissions, you affirm, represent, and/or warrant that: you own or have the necessary licenses, rights, consents, and permissions to use and authorize osu! to use all patent, trademark, trade secret, copyright or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the Website and these Terms of Service.
+Kendi Kullanıcı Gönderimlerinizden ve onların gönderilmesinin veya yayımlanmasının sonuçlarından yalnızca siz sorumlusunuz.
+Kullanıcı Gönderileriyle bağlantılı olarak, şunları onaylar, temsil eder, ve/veya garanti edersiniz: Kullanıcı Gönderilerinin Web sitesi ve bu Hizmet Koşulları tarafından öngörülen şekilde dahil edilmesini ve kullanılmasını sağlamak adına Kullanıcı Gönderilerinin veya bunlarda bulunan her türlü patenti, marka tescilini, ticari sırrı, telif hakkını veya diğer mülkiyet haklarını kullanmak veya osu!'nun kullanmasına izin vermek için gerekli lisanslara, haklara, rızalara, ve izinlere sahipsiniz.
 
-In connection with User Submissions, you further agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant osu! all of the license rights granted herein.
+Ek olarak Kullanıcı Gönderileriyle bağlantılı olarak, bahsedilen haklara sahip olmadığınız veya ilgili hak sahibinden materyali gönderme ve osu! için buna dair tüm lisans haklarını verme iznini bulundurmadığınız sürece, telif hakkı bulunan, ticari sır olarak saklanan veya diğer bir şekilde, gizlilik ve tanıtım hakları dahil, üçüncü parti mülkiyet haklarına bağlı olan materyalleri göndermeyeceğinizi kabul ediyorsunuz.
 
-osu! does not endorse any User Submission or any opinion, recommendation, or advice expressed therein, and osu! expressly disclaims any and all liability in connection with User Submissions.
-osu! does not permit copyright infringing activities and infringement of intellectual property rights on its Website, and osu! will remove all Content and User Submissions if properly notified that such Content or User Submission infringes on another's intellectual property rights.
-osu! reserves the right to remove Content and User Submissions without prior notice.
+osu! herhangi bir Kullanıcı Gönderisini ya da orada belirtilen herhangi bir görüşü, öneriyi, veya tavsiyeyi desteklemez, ve osu! açık bir şekilde Kullanıcı Gönderileriyle ilişkili her türlü yükümlülüğü reddeder.
+osu!, Web sitesinde telif hakkı çiğneyen aktivitelere ve fikri mülkiyet hak ihlallerine izin vermez, ve osu!, söz konusu İçeriğin veya Kullanıcı Gönderiminin bir başkasının fikri mülkiyet haklarını ihlal ettiği konusunda uygun bir şekilde bilgilendirildiği takdirde, tüm İçeriği ve Kullanıcı Gönderimlerini kaldıracaktır.
+osu!, İçerikleri ve Kullanıcı Gönderimlerini önceden haber vermeksizin kaldırma hakkını saklı tutar.
 
-## YOUR RESPONSIBILITIES IN VOLUNTEER POSITIONS
+## GÖNÜLLÜ POZİSYONLARDAKİ SORUMLULUKLARINIZ
 
-osu! contains a number of volunteer teams at any given point in time that are drawn directly from the community. Certain teams require extra permissions and access in order to facilitate the community-driven aspect of the game. Such teams are as follows:
+osu!, herhangi bir zamanda doğrudan topluluktan seçilen bir dizi gönüllü ekip içerir. Bazı takımlar, oyunun topluluk odaklı yönünü kolaylaştırmak için ekstra izinlere ve erişime ihtiyaç duyar. Bu tür takımlar aşağıdaki gibidir:
 
-- [The Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
-- [The Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
+- [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team)
+- [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team)
 
-No users below the age of 18 may attain membership in any of the teams listed above.
+18 yaşından küçük kullanıcılar, yukarıda listelenen takımların hiçbirine üye olamaz.
 
-## PRIVACY POLICIES
+## GİZLİLİK POLİTİKALARI
 
-osu! finds your privacy most important, and we value your use of our services.
-osu!'s services are free of any charge, no prior registration is needed for the use of these services.
-osu! will explicitly ask for information about you when such information is needed for use of the services provided by osu!.
-Any submission of any personal information is done only with your voluntary act (website), or automatically (game client software) where necessary to provide diagnostics and feedback.
-osu! keeps all private and personal information private, and does not, or will not share this information with any third parties except under the following circumstances:
+osu! gizliliğinizi oldukça önemli bulur, ve biz hizmetimizi kullanmanıza değer veririz.
+osu!'nun hizmetleri ücretsizdir, bu hizmetleri kullanmak için önceden bir kayıt oluşturmak gerekmez.
+osu!, osu! tarafından sağlanan hizmetlerdeki kullanımlar için hakkınızda herhangi bir bilgi gerektiğinde bu bilgiyi sizden açık bir şekilde ister.
+Herhangi bir kişisel bilginin herhangi bir biçimde gönderimi yalnızca sizin rızanızla (web sitesi), veya gerektiğinde teşhis ve geri bildirim sağlamak için otomatik olarak (oyun istemcisi yazılımı) gerçekleştirilir.
+osu! tüm gizli ve kişisel bilgileri gizli tutar, ve aşağıdaki durumlar haricinde herhangi bir üçüncü partiyle paylaşmaz veya paylaşmayacaktır:
 
-When such action is necessary to conform to legal requirements or comply with legal process.
+Yasal gerekliliklere uymak veya yasal süreçlere uymak için bu tür bir eylem gerektiğinde.
 
-When such action is necessary to protect and defend rights or property of osu!.
+osu!'nun haklarını veya mülkiyetini korumak ve savunmak için bu tür bir eylem gerektiğinde.
 
-When such action is necessary to enforce osu! terms and conditions of service.
+osu! hizmet şartlarını ve koşullarını uygulamak için bu tür bir eylem gerektiğinde.
 
-osu! may use cookies as party of tracking process, but cookies will not be used to personally identify you without your prior consent.
-If the user decides to participate in the forum, with user's consent, a cookie will be issued to keep track of the username and password for the period of 1 year.
+osu!, takip sürecinin bir parçası olarak çerezleri kullanabilir, ancak çerezler rızanız olmadan sizi kişisel olarak tanımlamak için kullanılmayacaktır.
+Kullanıcının rızası ile foruma katılmaya karar vermesi halinde, kullanıcı adı ve şifresinin 1 yıl süreyle takip edilmesi için bir çerez verilecektir.
 
-## PROPRIETARY RIGHTS TO CONTENT
+## İÇERİKLER İÇİN MÜLKİYET HAKLARI
 
-User acknowledges that content, including but not limited to text, software, music, sound, photographs, video, graphics, name references or other material contained in either sponsor advertisements search results, provided to or accessed by User via the Service ("Content") by osu!, is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws; therefore, User is only permitted to use this Content as expressly authorized by the Service.
-User may not copy, reproduce, distribute, or create derivative works from this Content without expressly being authorized to do so by the Service.
+Kullanıcı, sponsor reklamlarında veya arama sonuçlarında bulunan metin, yazılım, müzik, ses, fotoğraf, video, grafik, isim referansları veya diğer materyaller dahil ama bunlarla sınırlı olmamak üzere, osu!'nun Hizmeti üzerinden Kullanıcılara sağlanan veya onlar tarafından erişilen ("İçerik"), içeriğin telif hakları, marka tescilleri, hizmet markaları, patentler ya da diğer mülkiyet hakları ve yasaları dahilinde korunduğunu kabul eder; böylelikle, Kullanıcı, bu İçeriği yalnızca Hizmet tarafından açıkça belirtildiği şekilde kullanmaya yetkilidir.
+Kullanıcı, Hizmet tarafından açıkça izin verilmediği sürece bu İçeriği kopyalayamaz, çoğaltamaz, dağıtamaz, veya bundan türetilmiş işler oluşturamaz.
 
-## LINKS
+## BAĞLANTILAR
 
-osu! may provide, or Users may include in e-mail, links to other Web sites or resources.
-User acknowledges and agrees that osu! is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources.
-User agrees that osu! shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on such external sites or resources.
+osu!, diğer Web sitelerine veya kaynaklara bağlantılar sağlayabilir, veya Kullanıcılar bunları e-postaya dahil edebilir.
+Kullanıcı, osu!'nun bu tür harici sitelerin veya kaynakların kullanılabilirliğinden sorumlu olmadığını ve bu tür siteler veya kaynaklarda bulunan ya da bu sitelerden veya kaynaklardan sağlanan herhangi bir içerik reklam, ürün veya diğer materyalleri onaylamadığını ve bunlardan sorumlu veya yükümlü olmadığını kabul ve beyan eder.
+Kullanıcı, bu tür harici siteler veya kaynaklarda bulunan bu tür içerik, mal veya hizmetlerin kullanımından veya bunlara güvenilmesinden kaynaklanan veya neden olduğu iddia edilen herhangi bir zarar veya kayıptan doğrudan veya dolaylı olarak osu!'nun sorumlu veya yükümlü olmayacağını kabul eder.
